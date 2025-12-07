@@ -31,3 +31,12 @@ A simple and clean **ASP.NET Core Web API** for managing student records with fu
 git clone https://github.com/ShahzadSyed/ASPCoreWebAPICRUD.git
 
 ---
+
+## API Endpoints
+| Method | Endpoint             | Description                |
+| ------ | -------------------- | -------------------------- |
+| GET    | /api/StudentAPI      | Get all students           |
+| GET    | /api/StudentAPI/{id} | Get student by ID          |
+| POST   | /api/StudentAPI      | Create a new student       |
+| PUT    | /api/StudentAPI/{id} | Update an existing student |
+| DELETE | /api/StudentAPI/{id} | Delete a student           |
