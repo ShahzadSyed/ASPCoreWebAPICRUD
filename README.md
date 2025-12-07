@@ -28,7 +28,6 @@ A simple and clean **ASP.NET Core Web API** for managing student records with fu
 ## Getting Started
 
 1. **Clone the repository**  
-```bash
 git clone https://github.com/ShahzadSyed/ASPCoreWebAPICRUD.git
 
 ---
