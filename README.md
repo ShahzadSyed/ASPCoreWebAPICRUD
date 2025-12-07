@@ -1,8 +1,8 @@
-## ASP.NET Core Web API CRUD - Student Management
+# ASP.NET Core Web API CRUD - Student Management
 
 A simple and clean ASP.NET Core Web API for managing student records with full CRUD operations. Built with Entity Framework Core and SQL Server, this project demonstrates how to create a robust RESTful API for real-world applications. Perfect for learning modern C# Web API development or integrating into larger projects.
 
-### Features
+## Features
 Create new student records
 Read all students or a single student by ID
 Update existing student information
@@ -18,7 +18,7 @@ Entity Framework Core
 SQL Server 
 C#
 
-# Getting Started
+## Getting Started
 Clone the repository:
 git clone [(https://github.com/ShahzadSyed/ASPCoreWebAPICRUD)]
 
